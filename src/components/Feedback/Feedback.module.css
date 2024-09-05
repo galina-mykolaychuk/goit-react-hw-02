@@ -1,0 +1,14 @@
+/* Feedback.module.css */
+
+.container {
+  text-align: left;
+  align-items: flex-start;
+  padding: 0;
+  color: white;
+}
+
+p {
+  font-size: 1.2rem;
+  margin: 5px 0;
+  color: #2e211b;
+}
